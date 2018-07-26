@@ -1,0 +1,39 @@
+{
+  "slides/chapter_1_fcf5bc76bc82c98efdab57d96e6fd9a6.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.027345160498621568,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.2399640992167102,
+      "state": {
+        "indexh": 1,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.3691929383957727,
+      "state": {
+        "indexh": 1,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.5846116187989556,
+      "state": {
+        "indexh": 2,
+        "indexf": -1
+      }
+    }
+  ]
+}
