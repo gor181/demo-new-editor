@@ -61,6 +61,40 @@ disable_transition: true
 
 
 ---
+## Insert title here...
+  
+```yaml
+type: "FullSlide"
+key: "d6314f033d"
+```
+
+
+`@part1`
+this is the text
+
+
+`@script`
+
+
+
+---
+## Insert title here...
+  
+```yaml
+type: "FullImageSlide"
+key: "6be5ea3212"
+```
+
+
+`@part1`
+thiaodklsandklas
+
+
+`@script`
+
+
+
+---
 ## Final Slide
   
 ```yaml
