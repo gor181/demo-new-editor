@@ -34,6 +34,7 @@ This is a script
 ```yaml
 type: FullSlide
 key: 388af5fc1d
+disable_transition: true
 ```
 
 `@part1`
