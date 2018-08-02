@@ -25,17 +25,16 @@ This is a script
 
 
 ---
-## here
+## Insert title here...
   
 ```yaml
-type: "FullSlide"
-key: "388af5fc1d"
-disable_transition: true
+type: "FullImageSlide"
+key: "bc23e7b47e"
 ```
 
 
 `@part1`
-step
+![](https://cdn.pixabay.com/photo/2013/04/06/11/50/image-editing-101040_1280.jpg)
 
 
 `@script`
@@ -43,17 +42,16 @@ step
 
 
 ---
-## here 2
+## Insert title here...
   
 ```yaml
 type: "FullImageSlide"
-key: "fbe456ee61"
-disable_transition: true
+key: "628162577a"
 ```
 
 
 `@part1`
-here 2
+![](https://thumb1.shutterstock.com/display_pic_with_logo/2749573/1028473693/stock-vector-cute-goat-vector-flat-illustration-isolated-on-white-background-farm-animal-goat-cartoon-character-1028473693.jpg)
 
 
 `@script`
