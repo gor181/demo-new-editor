@@ -7,14 +7,11 @@ video_link:
 
 ---
 ## This is a video
-
+  
 ```yaml
-type: TitleSlide
-key: 042adeffeb
+type: "TitleSlide"
+key: "042adeffeb"
 ```
-
-
-
 
 
 `@lower_third`
@@ -27,40 +24,50 @@ title: Instructor at DataCamp
 This is a script
 
 
-
 ---
 ## here
-
+  
 ```yaml
-type: FullSlide
-key: 388af5fc1d
+type: "FullSlide"
+key: "388af5fc1d"
 disable_transition: true
 ```
 
+
 `@part1`
-step {{-}}
-
-
-
+step
 
 
 `@script`
 
 
 
-
 ---
-## Final Slide
-
+## here 2
+  
 ```yaml
-type: FinalSlide
-key: 29445c4bc8
+type: "FullImageSlide"
+key: "fbe456ee61"
 ```
 
 
+`@part1`
+here 2
+
+
+`@script`
 
 
 
+---
+## Final Slide
+  
+```yaml
+type: "FinalSlide"
+key: "29445c4bc8"
+```
 
+
+`@script`
 
 
