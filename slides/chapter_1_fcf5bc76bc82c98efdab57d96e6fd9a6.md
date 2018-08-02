@@ -11,7 +11,7 @@ video_link:
 ```yaml
 type: "TitleSlide"
 key: "042adeffeb"
-disable_transition: true
+disable_transition: false
 ```
 
 
@@ -31,7 +31,7 @@ This is a script
 ```yaml
 type: "FullImageSlide"
 key: "bc23e7b47e"
-disable_transition: false
+disable_transition: true
 ```
 
 
