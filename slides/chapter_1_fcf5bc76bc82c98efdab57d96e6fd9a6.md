@@ -30,6 +30,7 @@ This is a script
 ```yaml
 type: "FullImageSlide"
 key: "bc23e7b47e"
+disable_transition: true
 ```
 
 
@@ -47,6 +48,7 @@ key: "bc23e7b47e"
 ```yaml
 type: "FullImageSlide"
 key: "628162577a"
+disable_transition: true
 ```
 
 
