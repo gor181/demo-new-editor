@@ -48,6 +48,7 @@ step
 ```yaml
 type: "FullImageSlide"
 key: "fbe456ee61"
+disable_transition: true
 ```
 
 
